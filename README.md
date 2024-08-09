@@ -44,6 +44,9 @@ I'm <strong>Aman Kumar Thakur</strong>, a 3rd-year B.Tech student with a strong 
 </p>
 
 <br>
+<div align="center">
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsaman080&theme=aura_dark" />  
+</div>
 
 ## ❤️ Let's get connected:
 
