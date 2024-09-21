@@ -10,7 +10,7 @@
 </h1>
 
 <p align="center">
-I'm <strong>Aman Kumar Thakur</strong>, a 3rd-year B.Tech student with a strong foundation in computer science and a keen interest in software development. Currently pursuing a B.Tech degree in Computer Science from VTU, where I am honing my technical skills and expanding my knowledge in programming languages, algorithms, and data structures.
+I'm <strong>Aman Kumar Thakur</strong>, a Final-year B.Tech student with a strong foundation in computer science and a keen interest in software development. Currently pursuing a B.Tech degree in Computer Science from VTU, where I am honing my technical skills and expanding my knowledge in programming languages, Web Dev, data structures & algorithms.
 </p>
 
 <br/>
@@ -39,7 +39,7 @@ I'm <strong>Aman Kumar Thakur</strong>, a 3rd-year B.Tech student with a strong 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,jquery,vite,mongodb,mysql,sqlite,expressjs,nodejs,php,flask,django,redux,c,cpp,cloudflare,codepen,discord,python,js,ts,bash,babel,linux,git,github,githubactions,gmail,figma,notion,wordpress,vscode,atom,pycharm,&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite,mongodb,mysql,sqlite,expressjs,nodejs,php,flask,django,redux,c,cpp,cloudflare,codepen,discord,python,js,ts,bash,babel,git,github,gmail,figma,notion,wordpress,vscode,atom,pycharm,&perline=10" />
   </a>
 </p>
 
