@@ -48,6 +48,10 @@ I'm <strong>Aman Kumar Thakur</strong>, a Final-year B.Tech student with a stron
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsaman080&theme=aura_dark" />  
 </div>
 
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsaman080&layout=compact" />
+</div>
+
 ## ❤️ Let's get connected:
 
 <p align="center">
