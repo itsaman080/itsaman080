@@ -10,7 +10,7 @@
 </h1>
 
 <p align="center">
-I'm <strong>Aman Kumar Thakur</strong>, a Final-year B.Tech student with a strong foundation in computer science and a keen interest in software development. Currently pursuing a B.Tech degree in Computer Science from VTU, where I am honing my technical skills and expanding my knowledge in programming languages, Web Dev, data structures & algorithms.
+I'm <strong>Aman Kumar Thakur</strong>, a Final-year B.Tech student with a strong foundation in computer science and a keen interest in software development. Currently pursuing a B.Tech degree in Computer Science from VTU, where I am honing my technical skills and expanding my knowledge in programming languages, Web Dev, AI & ML , data structures & algorithms.
 </p>
 
 <br/>
@@ -21,7 +21,7 @@ I'm <strong>Aman Kumar Thakur</strong>, a Final-year B.Tech student with a stron
 
 - 🔭 I’m currently working on **Something Interesting**
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **AI**
 
 - 👯 I’m looking to collaborate on **Dev Projects**
 
@@ -39,7 +39,7 @@ I'm <strong>Aman Kumar Thakur</strong>, a Final-year B.Tech student with a stron
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite,mongodb,mysql,sqlite,expressjs,nodejs,flask,django,redux,c,cpp,cloudflare,discord,python,js,ts,git,github,figma,notion,wordpress,vscode,atom,firebase,pycharm,&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,ai,tailwind,bootstrap,vite,mongodb,mysql,sqlite,expressjs,nodejs,flask,django,redux,c,cpp,java,cloudflare,discord,python,js,ts,git,github,figma,opencv,sklearn,tensorflow,pytorch,notion,wordpress,vscode,atom,arduino,firebase,postman,vercel,anaconda,pycharm,&perline=10" />
   </a>
 </p>
 
@@ -61,9 +61,9 @@ I'm <strong>Aman Kumar Thakur</strong>, a Final-year B.Tech student with a stron
   <a href="https://github.com/itsaman080" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30px"/>
   </a>
-  <a href="https://leetcode.com/itsaman080/" target="_blank">
+<!--   <a href="https://leetcode.com/itsaman080/" target="_blank">
     <img alt="Leetcode" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30px"/>
-  </a>
+  </a> -->
   <a href="mailto:kumaraman010101@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30px"/>
   </a>
