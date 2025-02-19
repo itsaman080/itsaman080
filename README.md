@@ -25,7 +25,7 @@ I'm <strong>Aman Kumar Thakur</strong>, a Final-year B.Tech student with a stron
 
 - 👯 I’m looking to collaborate on **Dev Projects**
 
-- 🤝 I’m looking for help with **Internships**
+- 🤝 I’m looking for help with **Job Opportunities**
 
 - 💬 Ask me about **anything, except Electronics 😅**
 
