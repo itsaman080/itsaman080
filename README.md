@@ -39,7 +39,7 @@ I'm <strong>Aman Kumar Thakur</strong>, a Final-year B.Tech student with a stron
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,ai,tailwind,bootstrap,vite,mongodb,mysql,sqlite,expressjs,nodejs,flask,django,redux,c,cpp,java,cloudflare,discord,python,js,ts,git,github,figma,opencv,sklearn,tensorflow,pytorch,notion,wordpress,vscode,atom,arduino,firebase,postman,vercel,anaconda,pycharm,&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,ai,tailwind,bootstrap,vite,mongodb,mysql,sqlite,expressjs,nodejs,flask,django,redux,c,cpp,java,cloudflare,discord,python,js,ts,git,github,figma,opencv,sklearn,tensorflow,pytorch,notion,wordpress,vscode,atom,docker,firebase,postman,vercel,anaconda,pycharm,&perline=10" />
   </a>
 </p>
 
