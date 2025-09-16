@@ -1,5 +1,5 @@
 <div align="center">
-  <img src ="https://github.com/itsaman080/itsaman080/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png" /></a>
+  <img src ="https://github.com/itsaman080/itsaman080/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner%20(1).png" /></a>
 </div>
 
 <h1 align="center">
