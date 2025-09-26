@@ -10,7 +10,7 @@
 </h1>
 
 <p align="center">
-I'm <strong>Aman Kumar Thakur</strong>, a Final-year B.Tech student with a strong foundation in computer science and a keen interest in software development. Currently pursuing a B.Tech degree in Computer Science from VTU, where I am honing my technical skills and expanding my knowledge in programming languages, Web Dev, AI & ML , data structures & algorithms.
+I'm <strong>Aman Kumar Thakur</strong>
 </p>
 
 <br/>
