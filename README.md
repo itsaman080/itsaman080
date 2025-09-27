@@ -21,9 +21,7 @@ I'm <strong>Aman Kumar Thakur</strong>
 
 - 🔭 I’m currently working on **Something Interesting**
 
-- 🌱 I’m currently learning **AI**
-
-- 👯 I’m looking to collaborate on **Dev Projects**
+- 👯 I’m looking to collaborate on **AI/Dev Projects**
 
 - 🤝 I’m looking for help with **Job Opportunities**
 
@@ -39,9 +37,10 @@ I'm <strong>Aman Kumar Thakur</strong>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,ai,tailwind,bootstrap,vite,mongodb,mysql,sqlite,expressjs,nodejs,flask,django,redux,c,cpp,java,cloudflare,discord,python,js,ts,git,github,figma,opencv,sklearn,tensorflow,pytorch,notion,wordpress,vscode,atom,docker,firebase,postman,vercel,anaconda,pycharm,&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite,nodejs,expressjs,flask,mongodb,mysql,redis,npm,pnpm,docker,vercel,nginx,cloudflare,rabbitmq,c,cpp,java,python,ai,sklearn,opencv,tensorflow,pytorch,vscode,pycharm,bash,git,github,postman,firebase,notion,wordpress,discord,linux&perline=10" />
   </a>
 </p>
+
 
 <br>
 <div align="center">
