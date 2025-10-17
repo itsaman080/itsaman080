@@ -42,6 +42,8 @@ I'm <strong>Aman Kumar Thakur</strong>
 </p>
 
 
+## 📊 My GitHub Data:
+
 <br>
 <div align="center">
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsaman080&theme=aura_dark" />  
@@ -49,6 +51,12 @@ I'm <strong>Aman Kumar Thakur</strong>
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsaman080&layout=compact" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=itsaman080&show_icons=true&count_private=true&theme=tokyonight" alt="Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsaman080&theme=tokyonight" alt="Streak" />
 </div>
 
 ## ❤️ Let's get connected:
